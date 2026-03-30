@@ -410,3 +410,8 @@ Integra todos os módulos acima com um **multiplexador** controlado pelo sinal `
 ├── shift_left.dig           # Shift left de 16 bits
 └── README.md
 ```
+---
+
+## Vídeo de Demonstração
+
+Clique [aqui](https://youtu.be/jgIwt8MiZRc) para acessar o vídeo de demonstração e explicação do funcionamento da ALU.
