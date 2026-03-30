@@ -414,4 +414,4 @@ Integra todos os módulos acima com um **multiplexador** controlado pelo sinal `
 
 ## Vídeo de Demonstração
 
-Clique [aqui](https://youtu.be/jgIwt8MiZRc) para acessar o vídeo de demonstração e explicação do funcionamento da ALU.
+Clique [aqui](https://youtu.be/gu6pWGAAX7A) para acessar o vídeo de demonstração e explicação do funcionamento da ALU.
